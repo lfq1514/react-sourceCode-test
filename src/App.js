@@ -3,10 +3,7 @@ import './App.css';
 import { Component } from 'react';
 
 class App extends Component {
-  componentWillMount(){
-  }
-  componentDidMount(){
-  }
+
   render(){
     return (
       <div className="App">
